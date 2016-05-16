@@ -1,1 +1,1 @@
-Demo project by Jordon McKoy.
+Demo React/Redux project by Jordon McKoy.
